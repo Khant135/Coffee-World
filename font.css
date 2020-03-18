@@ -1,0 +1,15 @@
+@font-face
+{
+	font-family: 'a';
+	src:url('font/Exo/Exo-Black.ttf');
+}
+@font-face
+{
+	font-family: 'b';
+	src:url('font/Exo/Exo-Italic.ttf');
+}
+@font-face
+{
+	font-family: 'c';
+	src:url('font/Roboto/Roboto-Italic.ttf');
+}
